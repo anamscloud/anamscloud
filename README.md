@@ -35,5 +35,5 @@ IT professional specializing in **Networking, Systems Administration, Cloud Infr
 
 ## 📫 Contact
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/dave-anamayi)
+- LinkedIn: [linkedin.com/in/dave-anamayi](https://linkedin.com/in/dave-anamayi)
 - Email: anams.cloud@gmail.com
