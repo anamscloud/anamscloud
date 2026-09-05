@@ -26,7 +26,6 @@ IT professional specializing in **Networking, Systems Administration, Cloud Infr
 | Cloud | [AWS 3-Tier VPC (Terraform)](https://github.com/yourusername/cloud-aws-three-tier-vpc) | IaC deployment of a production-style VPC architecture |
 | IT Support | [Troubleshooting Case Studies](https://github.com/yourusername/it-support-case-studies) | Documented diagnostic walkthroughs of complex support tickets |
 
-*(Replace links above once each repo exists — GitHub will 404 until then.)*
 
 ## 📈 GitHub Stats
 
